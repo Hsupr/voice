@@ -1,0 +1,15 @@
+body {
+    background-color:silver;
+    text-align: center;
+    text-decoration: wavy;
+    -webkit-text-fill-color: crimson;
+  
+}
+
+#name {
+    -webkit-text-fill-color: red;
+}
+
+#note {
+    text-align: center;
+}
